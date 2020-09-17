@@ -1,6 +1,7 @@
 # Multiply-to-n
   Kata From CodeWars "Multiply-to-n"
-  **BUT TIME OUT
+  
+  **BUT TIME OUT**
   
   https://www.codewars.com/kata/5f1891d30970800010626843
   
@@ -8,6 +9,7 @@
   Given a positive integer, n, return the number of possible ways such that k positive integers multiply to n. Order matters.
   
   Examples
+  ```
     n = 24
     k = 2
     (1, 24), (2, 12), (3, 8), (4, 6), (6, 4), (8, 3), (12, 2), (24, 1) -> 8
@@ -21,5 +23,6 @@
     (1, 1, 20), (1, 2, 10), (1, 4, 5), (1, 5, 4), (1, 10, 2), (1, 20, 1),
     (2, 1, 10), (2, 2, 5), (2, 5, 2), (2, 10, 1), (4, 1, 5), (4, 5, 1),
     (5, 1, 4), (5, 2, 2), (5, 4, 1), (10, 1, 2), (10, 2, 1), (20, 1, 1) -> 18
+  ```
     
  Constraints 1 <= n <= 500_000_000 and 1 <= k <= 1000
