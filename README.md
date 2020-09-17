@@ -1,5 +1,6 @@
 # Multiply-to-n
   Kata From CodeWars "Multiply-to-n"
+  **BUT TIME OUT
   
   https://www.codewars.com/kata/5f1891d30970800010626843
   
